@@ -19,9 +19,7 @@ span {
   color: darkgreen;
 }
 
-span:hover {
-  color: burlywood;
-}
+
 
 main h2 {
   border-bottom: 2px solid darkgreen;

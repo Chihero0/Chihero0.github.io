@@ -20,11 +20,11 @@ span {
 }
 
 span:hover {
-  color: rgb(82, 164, 14);
+  color: darkgreen;
 }
 
 main h2 {
-  border-bottom: 2px solid #5ace17;
+  border-bottom: 2px solid darkgreen;
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
@@ -48,12 +48,12 @@ footer {
 
 a {
   text-decoration: none;
-  color: rgb(82, 164, 14);
+  color:darkgreen;
 }
 
 a:hover {
   text-decoration: underline;
-  color: rgb(27, 54, 5);
+  color:burlywood;
 }
 
 /* Responsive Images */

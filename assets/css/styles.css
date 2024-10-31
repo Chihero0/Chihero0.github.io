@@ -41,10 +41,12 @@ footer {
 
 a {
   text-decoration: none;
+  color: darkolivegreen;
 }
 
 a:hover {
   text-decoration: underline;
+  color: goldenrod;
 }
 
 /* Responsive Images */

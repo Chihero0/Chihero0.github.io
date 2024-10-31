@@ -15,9 +15,16 @@ header {
   z-index: 1000;
 }
 
+span {
+  color: rgb(155, 40, 76);
+}
+
+span:hover {
+  color: rgb(82, 164, 14);
+}
 
 main h2 {
-  border-bottom: 2px solid #23e95e;
+  border-bottom: 2px solid #5ace17;
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
@@ -41,12 +48,12 @@ footer {
 
 a {
   text-decoration: none;
-  color:black;
+  color: rgb(82, 164, 14);
 }
 
 a:hover {
   text-decoration: underline;
-  color: goldenrod;
+  color: rgb(27, 54, 5);
 }
 
 /* Responsive Images */
